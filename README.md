@@ -1,11 +1,11 @@
 # My Favorite Series & Movies
 
-## TV Series
-- Stranger Things
-- Money Heist
-- The Mandalorian
+## TV Series (Top 3)
+1. **Stranger Things**
+2. *Money Heist*
+3. **The Mandalorian**
 
-## Movies
-- Interstellar
-- Avengers: Endgame
-- Spider-Man: No Way Home
+## Movies ❤️
+- *Interstellar*
+- **Avengers: Endgame**
+- *Avatar: The Way of Water*
